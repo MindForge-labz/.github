@@ -43,5 +43,9 @@ Interested in collaborating or learning more about our work? Feel free to open a
 <div align="center">
 
 *Built with `PyTorch` and a lot of coffee ☕*
+*Powered by GPUs, curiosity, and questionable sleep schedules 🌙*
+*99% gradient descent, 1% pure luck 🎲*
 
 </div>
+
+

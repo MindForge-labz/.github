@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔨 MindForge Lab
+# 🔨 MindForge Labs
 
 **Advancing efficient, lightweight, and accurate machine learning**
 

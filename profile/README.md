@@ -36,7 +36,7 @@ Founded by **Aarav Sureka**, MindForge Lab was established with the goal of cont
 
 ## 📊 Current Status
 
-We are currently in the early stages of our work. Our first research repositories and findings will be published here as they're ready — check back for updates.
+We just started.... whaddya expect a mini-gpt?
 
 ---
 
